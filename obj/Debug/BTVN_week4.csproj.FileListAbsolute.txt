@@ -1,0 +1,11 @@
+D:\C# project\LeManhCuong_2280600340\BTVN_week4\BTVN_week4\bin\Debug\BTVN_week4.exe.config
+D:\C# project\LeManhCuong_2280600340\BTVN_week4\BTVN_week4\bin\Debug\BTVN_week4.exe
+D:\C# project\LeManhCuong_2280600340\BTVN_week4\BTVN_week4\bin\Debug\BTVN_week4.pdb
+D:\C# project\LeManhCuong_2280600340\BTVN_week4\BTVN_week4\obj\Debug\BTVN_week4.csproj.AssemblyReference.cache
+D:\C# project\LeManhCuong_2280600340\BTVN_week4\BTVN_week4\obj\Debug\BTVN_week4.Form1.resources
+D:\C# project\LeManhCuong_2280600340\BTVN_week4\BTVN_week4\obj\Debug\BTVN_week4.Form2.resources
+D:\C# project\LeManhCuong_2280600340\BTVN_week4\BTVN_week4\obj\Debug\BTVN_week4.Properties.Resources.resources
+D:\C# project\LeManhCuong_2280600340\BTVN_week4\BTVN_week4\obj\Debug\BTVN_week4.csproj.GenerateResource.cache
+D:\C# project\LeManhCuong_2280600340\BTVN_week4\BTVN_week4\obj\Debug\BTVN_week4.csproj.CoreCompileInputs.cache
+D:\C# project\LeManhCuong_2280600340\BTVN_week4\BTVN_week4\obj\Debug\BTVN_week4.exe
+D:\C# project\LeManhCuong_2280600340\BTVN_week4\BTVN_week4\obj\Debug\BTVN_week4.pdb
